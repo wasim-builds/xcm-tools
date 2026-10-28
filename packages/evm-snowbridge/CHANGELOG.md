@@ -1,5 +1,12 @@
 # Changelog
 
+## [14.4.5](https://github.com/paraspell/xcm-tools/compare/evm-snowbridge-v14.4.4...evm-snowbridge-v14.4.5) (2026-10-28)
+
+
+### Code Refactoring
+
+* Make unit tests use vitest v5 best practices 🪄 ([8f6ac8f](https://github.com/paraspell/xcm-tools/commit/8f6ac8f2bd20239a2fc337e944396d268af0383b))
+
 ## [14.4.4](https://github.com/paraspell/xcm-tools/compare/evm-snowbridge-v14.4.3...evm-snowbridge-v14.4.4) (2026-10-20)
 
 
