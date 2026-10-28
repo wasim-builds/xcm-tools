@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.1](https://github.com/paraspell/xcm-tools/compare/xcm-analyser-v3.3.0...xcm-analyser-v3.3.1) (2026-10-28)
+
+
+### Code Refactoring
+
+* Make unit tests use vitest v5 best practices 🪄 ([8f6ac8f](https://github.com/paraspell/xcm-tools/commit/8f6ac8f2bd20239a2fc337e944396d268af0383b))
+
 ## [3.3.0](https://github.com/paraspell/xcm-tools/compare/xcm-analyser-v3.2.0...xcm-analyser-v3.3.0) (2026-09-30)
 
 
